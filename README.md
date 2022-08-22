@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on <a href="https://github.com/mahmudraselvlog/WebTechnologiesProject">@Github</a><br>👯 I’m looking to collaborate on $<br>🤝 I’m looking for help with $<br>🌱 I’m currently learning react, courses<br>💬 Ask me about bash, php, c++<br>⚡ Fun fact $
+🔭 I’m currently working on <a href="https://github.com/mahmudraselvlog/WebTechnologiesProject">Medical Management System</a><br>👯 I’m looking to collaborate on $<br>🤝 I’m looking for help with $<br>🌱 I’m currently learning react, courses<br>💬 Ask me about bash, php, c++<br>⚡ Fun fact $
 
 
 ## 🌐 Socials:
