@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🙋‍♂️ Rasel Ahmed. I graduted from American International University-Bangladesh (AIUB), Department of Faculty of Science and Technology.
+🙋‍♂️ I'm Rasel Ahmed. I graduted from American International University-Bangladesh (AIUB), Department of Faculty of Science and Technology.
 
 Problem solver and fast learner with strong communication skills. I am motivated to upgrade and expand my skill set through mentorship and challenging projects. I enjoy working collaboratively but can also run projects independently. I am excited about the prospect of joining an Ingoude company.
 
