@@ -4,10 +4,6 @@
 
 Problem solver and fast learner with strong communication skills. I am motivated to upgrade and expand my skill set through mentorship and challenging projects. I enjoy working collaboratively but can also run projects independently. I am excited about the prospect of joining an Ingoude company.
 
-<br>
-🌱 I’m currently learning: Linear Programming
-<br>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raselahmed1337) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raselahmed1337) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raselahmed1337) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/raselahmed1337) 
 
