@@ -1,16 +1,19 @@
 # 💫 About Me
 
-🙋‍♂️ Hi, I'm **Rasel Ahmed** — a passionate problem solver, fast learner, and software engineer with a BSc in Computer Science & Engineering from **American International University-Bangladesh (AIUB)**. I'm currently pursuing a **Master of Engineering Science**, with research focused on **Mathematical Optimization**. I thrive in both collaborative environments and independent projects, and I'm always eager to **expand my skill set through mentorship and challenging technical work**. I'm excited to contribute to innovative, impact-driven research teams.
+🙋‍♂️ Hi, I'm **Rasel Ahmed** — a problem solver, fast learner, and researcher with a BSc in Computer Science & Engineering from **American International University-Bangladesh (AIUB)**.  
+I'm currently pursuing a **Master of Engineering Science**, with research focused on **mathematical optimization, machine learning, and deep learning for real-world applications**.
 
-🔧 Proficient in **LaTeX** (Overleaf) for technical documentation and research writing.  
-🌍 Open to research collaborations, open-source contributions, and full-stack development opportunities.
+I thrive in both collaborative and independent settings, and I'm always eager to expand my skills through **challenging projects, mentorship, and open research**.  
+I'm excited to contribute to **impact-driven teams** at the intersection of algorithms, software, and intelligent systems.
+
+🔧 Proficient in **LaTeX (Overleaf)** for research writing and technical documentation.  
+🌍 Open to **research collaborations**, **open-source contributions**, and **full-stack development opportunities**.
 
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raselahmed1337)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raselahmed1337)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raselahmed1337)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@raselahmed.1337)
 
