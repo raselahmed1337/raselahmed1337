@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🙋‍♂️ Hi, I'm **Rasel Ahmed** — a problem solver, fast learner, and researcher with a BSc in Computer Science & Engineering from **American International University-Bangladesh (AIUB)**. I'm currently pursuing a **Master of Engineering Science**, with research focused on **mathematical optimization, machine learning, and deep learning for real-world applications**. I thrive in both collaborative and independent settings, and I'm always eager to expand my skills through **challenging projects, mentorship, and open research**. I'm excited to contribute to **impact-driven teams** at the intersection of algorithms, software, and intelligent systems.
+🙋‍♂️ Hi, I'm **Rasel Ahmed** — a problem solver, fast learner, and researcher with a BSc in Computer Science & Engineering from **American International University-Bangladesh (AIUB)** and **Master of Engineering Science**, with research focused on **mathematical optimization, machine learning, and deep learning for real-world applications**. I thrive in both collaborative and independent settings, and I'm always eager to expand my skills through **challenging projects, mentorship, and open research**. I'm excited to contribute to **impact-driven teams** at the intersection of algorithms, software, and intelligent systems.
 
 🔧 Proficient in **LaTeX (Overleaf)** for research writing and technical documentation.  
 🌍 Open to **research collaborations**, **open-source contributions**, and **full-stack development opportunities**.
