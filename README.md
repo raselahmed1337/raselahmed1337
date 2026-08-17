@@ -22,13 +22,16 @@ I am an AI researcher with a focus on building interpretable, robust, and agenti
 
 ---
 
-## Selected Projects & Publications
+## Selected Publications
 
-| Project | Description | Links |
-|---|---|---|
-| **Explainable Clinical Prediction** | An XAI framework for interpreting ICU mortality risk models using attention and SHAP-based explanations. | [Code](https://github.com/raselahmed1337) · [Paper (placeholder)](https://github.com/raselahmed1337) |
-| **Multi-Agent Optimization for Resource Allocation** | A distributed multi-agent system that solves large-scale scheduling problems via cooperative reinforcement learning. | [Code](https://github.com/raselahmed1337) · [Preprint (placeholder)](https://github.com/raselahmed1337) |
-| **Healthcare NLP Pipeline** | End-to-end pipeline for extracting structured clinical entities from unstructured EHR notes using transformer-based models. | [Code](https://github.com/raselahmed1337) |
+| Title | Venue | Year | Links |
+|---|---|---|---|
+| **A novel integrated logistic regression model enhanced with recursive feature elimination and explainable artificial intelligence for dementia prediction** | *Healthcare Analytics* | 2024 | [Paper](https://doi.org/10.1016/j.health.2024.100362) · [Code](https://github.com/raselahmed1337/dementia_prediction) |
+| **HyOPTEnsemble: custom-weighted soft voting hyperparameter optimization ensemble model, explainable-AI for predicting mental state among university students** | *Discover Artificial Intelligence* | 2026 | [Paper](https://doi.org/10.1007/s44163-025-00708-9) · [Code](https://github.com/raselahmed1337/) |
+| **Generative Artificial Intelligence in Clinical Practice: A Mini-Review of Applications, Benefits, and Limitations (2020–2025)** | *Frontiers in Digital Health* | 2025 | [Paper](https://doi.org/10.3389/fdgth.2025.1653369) |
+| **MIC: Medical Image Classification Using Chest X-ray (COVID-19 & Pneumonia) Dataset with CNN and Customized CNN** | *ICCA '24, ACM* | 2025 | [Paper](https://dl.acm.org/doi/10.1145/3723178.3723312) |
+
+&gt; [View full list on Google Scholar](https://scholar.google.com/citations?user=1qLYFGYAAAAJ&hl=en)
 
 ---
 
@@ -40,6 +43,8 @@ I am actively looking for:
 - **Open-source projects** aligned with trustworthy AI and scientific computing.
 - **PhD advisors and research groups** with interests in ML theory, optimization, or clinical AI.
 - **Industry R&D roles** or consulting opportunities in AI application development.
+
+If any of these overlap with your work, please reach out.
 
 ---
 
@@ -68,11 +73,14 @@ I am actively looking for:
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=raselahmed1337&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Rasel Ahmed's most used programming languages" />
 </div>
 
+---
+
 ## Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raselahmed1337@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raselahmed1337)
 [![Twitter / X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/raselahmed1337)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=1qLYFGYAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-5550-2640)
 
 ---
