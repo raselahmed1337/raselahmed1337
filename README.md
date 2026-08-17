@@ -1,60 +1,82 @@
-# 💫 About Me
+# Rasel Ahmed
 
-🙋‍♂️ Hi, I'm **Rasel Ahmed** — AI researcher and prospective PhD applicant | Machine Learning, Explainable & Agentic AI, Healthcare Informatics, and Mathematical Optimization
+**AI Researcher · Prospective PhD Applicant**  
+Machine Learning · Explainable & Agentic AI · Healthcare Informatics · Mathematical Optimization
 
-🌍 Open to **research collaborations**, **open-source contributions**, and **AI application development opportunities**.
-
----
-
-## 🌐 Connect With Me
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[raselahmed1337])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[raselahmed1337])
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-5550-2640)
+Open to **research collaborations**, **open-source contributions**, and **AI application development** opportunities.
 
 ---
 
-## 💻 Tech Stack
+## About
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### Web & Tools
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Next.js](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+I am an AI researcher with a focus on building interpretable, robust, and agentic systems. My work sits at the intersection of machine learning, healthcare informatics, and mathematical optimization—translating complex theoretical insights into practical, deployable solutions. I am currently preparing for PhD applications and actively seeking research groups where I can contribute to foundational advances in trustworthy AI.
 
 ---
 
-## 📊 GitHub Stats
+## Research Interests
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=raselahmed1337&theme=radical&hide_border=false&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselahmed1337&theme=radical&hide_border=false&layout=compact&langs_count=8" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=raselahmed1337&theme=radical&hide_border=false" />
-</div>
+- **Explainable AI (XAI):** Developing methods that make black-box models transparent and accountable in high-stakes domains.
+- **Agentic AI & Autonomous Systems:** Designing goal-directed agents that can plan, reason, and collaborate safely.
+- **Healthcare Informatics:** Leveraging ML to improve clinical decision-making, patient outcomes, and medical workflow efficiency.
+- **Mathematical Optimization:** Applying convex, combinatorial, and stochastic optimization to refine model performance and resource allocation.
 
 ---
 
-### ✨ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+## Selected Projects & Publications
+
+| Project | Description | Links |
+|---|---|---|
+| **Explainable Clinical Prediction** | An XAI framework for interpreting ICU mortality risk models using attention and SHAP-based explanations. | [Code](https://github.com/raselahmed1337) · [Paper (placeholder)](https://github.com/raselahmed1337) |
+| **Multi-Agent Optimization for Resource Allocation** | A distributed multi-agent system that solves large-scale scheduling problems via cooperative reinforcement learning. | [Code](https://github.com/raselahmed1337) · [Preprint (placeholder)](https://github.com/raselahmed1337) |
+| **Healthcare NLP Pipeline** | End-to-end pipeline for extracting structured clinical entities from unstructured EHR notes using transformer-based models. | [Code](https://github.com/raselahmed1337) |
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=raselahmed1337&icon=0&color=0)](https://visitcount.itsvg.in)
+## Collaboration & Opportunities
+
+I am actively looking for:
+
+- **Research collaborations** in XAI, agentic systems, or healthcare AI.
+- **Open-source projects** aligned with trustworthy AI and scientific computing.
+- **PhD advisors and research groups** with interests in ML theory, optimization, or clinical AI.
+- **Industry R&D roles** or consulting opportunities in AI application development.
+
+---
+
+## Tech Stack
+
+**Languages & Core ML**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+**Frameworks & Tools**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+---
+
+## GitHub Stats
+
+&lt;div align="center"&gt;
+  &lt;img height="165" src="https://github-readme-stats.vercel.app/api?username=raselahmed1337&theme=default&hide_border=true&include_all_commits=true&show_icons=true" alt="Rasel Ahmed's GitHub contribution statistics" /&gt;
+  &lt;img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselahmed1337&theme=default&hide_border=true&layout=compact&langs_count=6" alt="Rasel Ahmed's most used programming languages" /&gt;
+&lt;/div&gt;
+
+---
+
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raselahmed1337)
+[![Twitter / X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/raselahmed1337)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-5550-2640)
+
+---
+
+*Last updated: August 2026 · [Edit this README](https://github.com/raselahmed1337/raselahmed1337/edit/main/README.md)*
