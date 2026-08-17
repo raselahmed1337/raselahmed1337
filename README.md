@@ -63,12 +63,10 @@ I am actively looking for:
 
 ## GitHub Stats
 
-&lt;div align="center"&gt;
-  &lt;img height="165" src="https://github-readme-stats.vercel.app/api?username=raselahmed1337&theme=default&hide_border=true&include_all_commits=true&show_icons=true" alt="Rasel Ahmed's GitHub contribution statistics" /&gt;
-  &lt;img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselahmed1337&theme=default&hide_border=true&layout=compact&langs_count=6" alt="Rasel Ahmed's most used programming languages" /&gt;
-&lt;/div&gt;
-
----
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=raselahmed1337&theme=dark&hide_border=true&show_icons=true" alt="Rasel Ahmed's GitHub contribution statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=raselahmed1337&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Rasel Ahmed's most used programming languages" />
+</div>
 
 ## Connect
 
