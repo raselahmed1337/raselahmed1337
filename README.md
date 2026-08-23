@@ -26,8 +26,8 @@ I am an AI researcher with a focus on building interpretable, robust, and agenti
 
 | Title | Venue | Year | Links |
 |---|---|---|---|
-| **A novel integrated logistic regression model enhanced with recursive feature elimination and explainable artificial intelligence for dementia prediction** | *Healthcare Analytics* | 2024 | [Paper](https://doi.org/10.1016/j.health.2024.100362) · [Code](https://github.com/raselahmed1337/dementia_prediction) |
-| **HyOPTEnsemble: custom-weighted soft voting hyperparameter optimization ensemble model, explainable-AI for predicting mental state among university students** | *Discover Artificial Intelligence* | 2026 | [Paper](https://doi.org/10.1007/s44163-025-00708-9) · [Code](https://github.com/raselahmed1337/) |
+| **A novel integrated logistic regression model enhanced with recursive feature elimination and explainable artificial intelligence for dementia prediction** | *Healthcare Analytics* | 2024 | [Paper](https://doi.org/10.1016/j.health.2024.100362)|
+| **HyOPTEnsemble: custom-weighted soft voting hyperparameter optimization ensemble model, explainable-AI for predicting mental state among university students** | *Discover Artificial Intelligence* | 2026 | [Paper](https://doi.org/10.1007/s44163-025-00708-9) |
 | **Generative Artificial Intelligence in Clinical Practice: A Mini-Review of Applications, Benefits, and Limitations (2020–2025)** | *Frontiers in Digital Health* | 2025 | [Paper](https://doi.org/10.3389/fdgth.2025.1653369) |
 | **MIC: Medical Image Classification Using Chest X-ray (COVID-19 & Pneumonia) Dataset with CNN and Customized CNN** | *ICCA '24, ACM* | 2025 | [Paper](https://dl.acm.org/doi/10.1145/3723178.3723312) |
 
