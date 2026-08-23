@@ -73,12 +73,6 @@ If any of these overlap with your work, please reach out.
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=raselahmed1337&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Rasel Ahmed's most used programming languages" />
 </div>
 
-<!-- <div align="center">
-  <img height="165" src="https://vercel.app" alt="Rasel Ahmed's GitHub contribution statistics" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=raselahmed1337&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Rasel Ahmed's most used programming languages" />
-</div> -->
-
-
 ---
 
 ## Connect
